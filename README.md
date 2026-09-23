@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/50391a70-05ae-4b65-b436-8c1d8f18848f
 # 🍽️ ReviewInsight
 
 **ReviewInsight** is an NLP-based food review analysis project that predicts a **continuous rating from 1 to 5** from customer reviews using a **regularized BiLSTM regression model with attention**.
@@ -8,7 +10,7 @@ The current implementation focuses on **overall rating prediction**. The long-te
 
 ## 🎥 Demo
 
-[▶️ **Watch the ReviewInsight Interface Demo**](./assets/demo.mp4)
+https://github.com/user-attachments/assets/19fb679a-3547-4af4-8c60-ed52db97c599
 
 ---
 
